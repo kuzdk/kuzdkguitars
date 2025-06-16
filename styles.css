@@ -569,7 +569,7 @@ img:hover {
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
 }
 
-/* Анимация для форм */
+
 input, textarea {
     transition: all 0.3s ease;
 }
@@ -579,7 +579,7 @@ input:focus, textarea:focus {
     box-shadow: 0 5px 15px rgba(9, 132, 227, 0.1);
 }
 
-/* Анимация для карточек */
+
 .card {
     transition: none;
     display: flex;
@@ -615,7 +615,7 @@ input:focus, textarea:focus {
     margin: 0;
 }
 
-/* Анимация для иконок */
+
 .icon {
     transition: all 0.3s ease;
 }
@@ -624,7 +624,7 @@ input:focus, textarea:focus {
     transform: rotate(360deg) scale(1.2);
 }
 
-/* Анимация для заголовков */
+
 h1, h2, h3 {
     transition: all 0.3s ease;
 }
@@ -634,7 +634,7 @@ h1:hover, h2:hover, h3:hover {
     transform: translateX(5px);
 }
 
-/* Анимация для списков */
+
 ul li {
     transition: all 0.3s ease;
 }
@@ -644,7 +644,7 @@ ul li:hover {
     color: var(--accent);
 }
 
-/* Анимация для таблиц */
+
 table tr {
     transition: all 0.3s ease;
 }
@@ -654,7 +654,7 @@ table tr:hover {
     transform: scale(1.01);
 }
 
-/* Анимация для футера */
+
 .footer {
     animation: fadeIn 1s ease-out;
 }
