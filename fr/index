@@ -1,0 +1,416 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guitare — Wikipédia</title>
+    <link rel="stylesheet" href="../styles.css">
+</head>
+<body>
+    <header class="header">
+        <nav class="nav container">
+            <div class="nav-left">
+                <a href="index.html" class="logo">Guitare</a>
+            </div>
+            <div class="nav-right">
+                <input type="search" placeholder="Rechercher...">
+            </div>
+        </nav>
+    </header>
+
+    <div class="wiki-container container">
+        <aside class="sidebar">
+            <div class="sidebar-section">
+                <h3>Navigation</h3>
+                <ul>
+                    <li><a href="#introduction">Introduction</a></li>
+                    <li><a href="#etymology">Étymologie</a></li>
+                    <li><a href="#history">Histoire</a></li>
+                    <li><a href="#types">Types de Guitares</a></li>
+                    <li><a href="#construction">Construction</a></li>
+                    <li><a href="#technique">Technique de Jeu</a></li>
+                    <li><a href="#guitarists">Guitaristes Célèbres</a></li>
+                    <li><a href="#manufacturers">Fabricants</a></li>
+                </ul>
+            </div>
+            <div class="sidebar-section">
+                <h3>Autres Langues</h3>
+                <ul>
+                    <li><a href="../index.html">Русский</a></li>
+                    <li><a href="../en/index.html">English</a></li>
+                    <li><a href="../es/index.html">Español</a></li>
+                    <li><a href="../de/index.html">Deutsch</a></li>
+                    <li><a href="index.html">Français</a></li>
+                </ul>
+            </div>
+        </aside>
+
+        <main class="content">
+            <article>
+                <h1>Guitare</h1>
+                <div class="article-info">
+                    <p>De Wikipédia, l'encyclopédie libre</p>
+                    <p>Dernière modification : 15 mars 2024</p>
+                </div>
+
+                <div class="info-box">
+                    <h3>Guitare</h3>
+                    <img src="../images/guitar-main.jpg" alt="Guitare Classique">
+                    <table>
+                        <tr>
+                            <th>Type</th>
+                            <td>Instrument à Cordes</td>
+                        </tr>
+                        <tr>
+                            <th>Classification</th>
+                            <td>Chordophone</td>
+                        </tr>
+                        <tr>
+                            <th>Cordes</th>
+                            <td>6 (standard)</td>
+                        </tr>
+                    </table>
+                </div>
+
+                <section id="introduction">
+                    <h2>Introduction</h2>
+                    <p>La guitare est un instrument à cordes, l'un des plus populaires au monde. Elle est utilisée comme instrument d'accompagnement dans de nombreux styles musicaux, ainsi que comme instrument soliste classique. La guitare est présente dans la musique classique, populaire, jazz, rock, pop, blues, flamenco et bien d'autres genres. Grâce à sa polyvalence et à son accessibilité, la guitare est devenue un symbole d'expression musicale pour des millions de personnes à travers le monde.</p>
+                    <ul>
+                        <li>La guitare peut être acoustique ou électrique.</li>
+                        <li>Il existe de nombreux types de guitares : classique, acoustique, électrique, basse, douze cordes, etc.</li>
+                        <li>La guitare est l'un des instruments les plus populaires pour apprendre la musique.</li>
+                    </ul>
+                    <blockquote>« La guitare est un petit orchestre. Chaque accord est un univers. » — Andrés Segovia</blockquote>
+                </section>
+
+                <section id="etymology">
+                    <h2>Étymologie</h2>
+                    <p>Le mot « guitare » vient du grec ancien <i>κιθάρα</i> (kithara), qui désignait un instrument à cordes. Ce mot grec provient lui-même du vieux perse « tar », qui signifie « corde ». Dans de nombreuses langues, le nom de l'instrument est similaire : <i>guitar</i> (anglais), <i>guitarra</i> (espagnol), <i>Gitarre</i> (allemand), <i>guitare</i> (français).</p>
+                    <ul>
+                        <li>En Inde, il existe le sitar, dont le nom contient également la racine « tar ».</li>
+                        <li>Dans le monde arabe, il existait le qitara, un instrument similaire à la guitare.</li>
+                    </ul>
+                </section>
+
+                <section id="history">
+                    <h2>Histoire</h2>
+                    <p>L'histoire de la guitare s'étend sur plus de 4000 ans. Les premiers instruments à cordes sont apparus dans les anciennes civilisations du Proche-Orient et d'Égypte. Dans la Grèce antique, il existait la kithara, et à Rome, la cithare. Au Moyen Âge, le luth et la vihuela se sont répandus en Europe, précurseurs de la guitare moderne.</p>
+                    <ul>
+                        <li><strong>Antiquité :</strong> Des prototypes de guitare ont été trouvés en Égypte, en Mésopotamie, en Grèce et à Rome.</li>
+                        <li><strong>Moyen Âge :</strong> Le luth et la vihuela se sont répandus en Europe.</li>
+                        <li><strong>XIXe siècle :</strong> Le luthier espagnol Antonio Torres a donné à la guitare sa forme et son volume modernes.</li>
+                        <li><strong>XXe siècle :</strong> L'invention de la guitare électrique (Leo Fender, Les Paul) a révolutionné la musique.</li>
+                    </ul>
+                    <img src="../images/history-guitar.jpg" alt="Guitare historique" style="max-width:300px;margin:20px 0;">
+                    <blockquote>« La guitare est la voix de l'âme, entendue à travers les âges »</blockquote>
+                </section>
+
+                <section id="types">
+                    <h2>Types de Guitares</h2>
+                    <table>
+                        <tr>
+                            <th>Type</th>
+                            <th>Description</th>
+                            <th>Utilisation</th>
+                        </tr>
+                        <tr>
+                            <td>Classique</td>
+                            <td>Cordes en nylon, son doux et chaud.</td>
+                            <td>Classique, flamenco, apprentissage</td>
+                        </tr>
+                        <tr>
+                            <td>Acoustique</td>
+                            <td>Cordes en acier, son fort et brillant.</td>
+                            <td>Pop, rock, country</td>
+                        </tr>
+                        <tr>
+                            <td>Guitare électrique</td>
+                            <td>Utilise des micros, nécessite un amplificateur.</td>
+                            <td>Rock, jazz, blues, métal</td>
+                        </tr>
+                        <tr>
+                            <td>Basse</td>
+                            <td>Registre grave, base de la section rythmique.</td>
+                            <td>Tous les genres modernes</td>
+                        </tr>
+                        <tr>
+                            <td>Douze cordes</td>
+                            <td>Cordes doublées, son riche et volumineux.</td>
+                            <td>Folk, rock</td>
+                        </tr>
+                    </table>
+                    <div class="guitar-types">
+                        <div class="card">
+                            <img src="../images/acoustic.jpg" alt="Guitare Acoustique">
+                            <h3>Guitare Acoustique</h3>
+                            <p>Version classique avec cordes en nylon ou en acier. Utilisée pour l'accompagnement et le jeu en solo.</p>
+                        </div>
+                        <div class="card">
+                            <img src="../images/electric.jpg" alt="Guitare Électrique">
+                            <h3>Guitare Électrique</h3>
+                            <p>Instrument moderne avec micros magnétiques. Permet des effets et une large gamme de sons.</p>
+                        </div>
+                        <div class="card">
+                            <img src="../images/classic.jpg" alt="Guitare Classique">
+                            <h3>Guitare Classique</h3>
+                            <p>Instrument traditionnel avec cordes en nylon. Souvent utilisé dans la musique classique et espagnole.</p>
+                        </div>
+                        <div class="card">
+                            <img src="../images/bass.jpg" alt="Basse">
+                            <h3>Basse</h3>
+                            <p>Instrument à registre grave, indispensable dans la section rythmique d'un groupe.</p>
+                        </div>
+                    </div>
+                </section>
+
+                <section id="construction">
+                    <h2>Construction</h2>
+                    <p>La guitare se compose des parties principales suivantes :</p>
+                    <ul>
+                        <li><strong>Corps</strong> — résonateur qui amplifie le son (pour les guitares acoustiques) ou base pour les micros (pour les guitares électriques).</li>
+                        <li><strong>Manche</strong> — partie longue avec des frettes où l'on appuie sur les cordes.</li>
+                        <li><strong>Tête</strong> — endroit où se trouvent les mécaniques d'accordage.</li>
+                        <li><strong>Cordes</strong> — généralement 6, mais il existe des versions à 7, 8 et 12 cordes.</li>
+                        <li><strong>Mécaniques</strong> — mécanismes pour tendre et accorder les cordes.</li>
+                        <li><strong>Frettes</strong> — barres métalliques sur le manche qui déterminent la hauteur du son.</li>
+                        <li><strong>Chevalet</strong> — endroit où les cordes sont fixées au corps.</li>
+                        <li><strong>Micros</strong> — sur les guitares électriques, transforment les vibrations des cordes en signal électrique.</li>
+                    </ul>
+                    <img src="../images/guitar-parts.jpg" alt="Parties de la guitare" style="max-width:350px;margin:20px 0;">
+                    <blockquote>« Un vrai musicien connaît sa guitare jusqu'à la dernière vis »</blockquote>
+                </section>
+
+                <section id="technique">
+                    <h2>Technique de Jeu</h2>
+                    <p>Il existe de nombreuses techniques de jeu à la guitare, chacune donnant à la musique une sonorité unique :</p>
+                    <ul>
+                        <li><strong>Jeu aux doigts</strong> — jouer avec les doigts de la main droite, typique du classique et du flamenco.</li>
+                        <li><strong>Médiator</strong> — utilisé dans le rock, la pop et le jazz.</li>
+                        <li><strong>Slides</strong> — glisser sur les cordes pour des transitions douces.</li>
+                        <li><strong>Bends</strong> — tirer la corde pour changer la hauteur du son.</li>
+                        <li><strong>Vibrato</strong> — faire vibrer la corde pour plus d'expressivité.</li>
+                        <li><strong>Tapping</strong> — frapper rapidement la touche avec les deux mains (technique virtuose).</li>
+                        <li><strong>Muting</strong> — étouffer les cordes avec la paume ou les doigts.</li>
+                    </ul>
+                    <p>La guitare permet de jouer aussi bien des accords que des mélodies, ainsi que des solos complexes et des motifs rythmiques.</p>
+                    <img src="../images/technique.jpg" alt="Technique de guitare" style="max-width:300px;margin:20px 0;">
+                </section>
+
+                <section id="guitarists">
+                    <h2>Guitaristes Célèbres</h2>
+                    <div class="guitarists-grid">
+                        <div class="guitarist-card">
+                            <img src="../images/jimi.jpg" alt="Jimi Hendrix">
+                            <h3>Jimi Hendrix</h3>
+                            <p>Guitariste américain légendaire qui a eu une grande influence sur le développement du rock et de la guitare électrique. Connu pour son style novateur et sa technique virtuose.</p>
+                        </div>
+                        <div class="guitarist-card">
+                            <img src="../images/satriani.jpg" alt="Joe Satriani">
+                            <h3>Joe Satriani</h3>
+                            <p>Guitariste américain virtuose, maître du rock instrumental. Professeur de nombreux musiciens célèbres.</p>
+                        </div>
+                        <div class="guitarist-card">
+                            <img src="../images/vai.jpg" alt="Steve Vai">
+                            <h3>Steve Vai</h3>
+                            <p>Guitariste, compositeur et producteur américain, connu pour sa technique et ses expérimentations sonores.</p>
+                        </div>
+                        <div class="guitarist-card">
+                            <img src="../images/segovia.jpg" alt="Andrés Segovia">
+                            <h3>Andrés Segovia</h3>
+                            <p>Guitariste classique espagnol, fondateur de l'école moderne de guitare classique.</p>
+                        </div>
+                        <div class="guitarist-card">
+                            <img src="../images/gilmour.jpg" alt="David Gilmour">
+                            <h3>David Gilmour</h3>
+                            <p>Guitariste de Pink Floyd, connu pour son son atmosphérique et ses solos mélodiques.</p>
+                        </div>
+                        <div class="guitarist-card">
+                            <img src="../images/clapton.jpg" alt="Eric Clapton">
+                            <h3>Eric Clapton</h3>
+                            <p>L'un des guitaristes de blues et de rock les plus influents du XXe siècle.</p>
+                        </div>
+                    </div>
+                    <blockquote>« La guitare n'est pas seulement un instrument, c'est une façon de parler sans mots »</blockquote>
+                </section>
+
+                <section id="manufacturers">
+                    <h2>Fabricants</h2>
+                    <div class="manufacturers-list">
+                        <input type="checkbox" id="fender-trigger" class="modal-trigger">
+                        <div class="modal">
+                            <div class="modal-content">
+                                <label for="fender-trigger" class="close-modal">&times;</label>
+                                <h2>Fender</h2>
+                                <div class="modal-body">
+                                    <p>Fondée en 1946 par Leo Fender, Fender est l'un des fabricants de guitares électriques les plus célèbres au monde.</p>
+                                    <p><strong>Spécialisation :</strong></p>
+                                    <ul>
+                                        <li>Guitares électriques (Stratocaster, Telecaster)</li>
+                                        <li>Basses électriques (Precision Bass, Jazz Bass)</li>
+                                        <li>Amplificateurs</li>
+                                    </ul>
+                                    <p>Fender est reconnue pour ses solutions innovantes et la qualité de son, choisie par de nombreux guitaristes légendaires.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <label for="fender-trigger" class="manufacturer-link">Fender</label>
+
+                        <input type="checkbox" id="gibson-trigger" class="modal-trigger">
+                        <div class="modal">
+                            <div class="modal-content">
+                                <label for="gibson-trigger" class="close-modal">&times;</label>
+                                <h2>Gibson</h2>
+                                <div class="modal-body">
+                                    <p>Fondée en 1902 par Orville Gibson, Gibson est l'un des plus anciens et prestigieux fabricants de guitares.</p>
+                                    <p><strong>Spécialisation :</strong></p>
+                                    <ul>
+                                        <li>Guitares électriques (Les Paul, SG)</li>
+                                        <li>Guitares acoustiques</li>
+                                        <li>Guitares archtop</li>
+                                    </ul>
+                                    <p>Gibson est réputée pour sa qualité premium et son son riche et chaleureux.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <label for="gibson-trigger" class="manufacturer-link">Gibson</label>
+
+                        <input type="checkbox" id="ibanez-trigger" class="modal-trigger">
+                        <div class="modal">
+                            <div class="modal-content">
+                                <label for="ibanez-trigger" class="close-modal">&times;</label>
+                                <h2>Ibanez</h2>
+                                <div class="modal-body">
+                                    <p>Fondée en 1908 au Japon, Ibanez s'est fait connaître grâce à ses guitares électriques innovantes.</p>
+                                    <p><strong>Spécialisation :</strong></p>
+                                    <ul>
+                                        <li>Guitares électriques (RG, S, JEM)</li>
+                                        <li>Basses électriques</li>
+                                        <li>Guitares acoustiques</li>
+                                    </ul>
+                                    <p>Ibanez est particulièrement populaire parmi les musiciens de rock et de métal.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <label for="ibanez-trigger" class="manufacturer-link">Ibanez</label>
+
+                        <input type="checkbox" id="prs-trigger" class="modal-trigger">
+                        <div class="modal">
+                            <div class="modal-content">
+                                <label for="prs-trigger" class="close-modal">&times;</label>
+                                <h2>PRS</h2>
+                                <div class="modal-body">
+                                    <p>Fondée en 1985 par Paul Reed Smith, PRS a rapidement acquis une réputation de guitares haut de gamme.</p>
+                                    <p><strong>Spécialisation :</strong></p>
+                                    <ul>
+                                        <li>Guitares électriques (Custom 24, McCarty)</li>
+                                        <li>Guitares acoustiques</li>
+                                        <li>Guitares semi-acoustiques</li>
+                                    </ul>
+                                    <p>PRS est reconnue pour sa qualité de fabrication exceptionnelle et son son polyvalent.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <label for="prs-trigger" class="manufacturer-link">PRS</label>
+
+                        <input type="checkbox" id="taylor-trigger" class="modal-trigger">
+                        <div class="modal">
+                            <div class="modal-content">
+                                <label for="taylor-trigger" class="close-modal">&times;</label>
+                                <h2>Taylor</h2>
+                                <div class="modal-body">
+                                    <p>Fondée en 1974 par Bob Taylor, l'entreprise se spécialise dans les guitares acoustiques.</p>
+                                    <p><strong>Spécialisation :</strong></p>
+                                    <ul>
+                                        <li>Guitares acoustiques</li>
+                                        <li>Guitares électro-acoustiques</li>
+                                        <li>Guitares à cordes en nylon</li>
+                                    </ul>
+                                    <p>Taylor est célèbre pour son son clair et brillant et ses technologies innovantes.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <label for="taylor-trigger" class="manufacturer-link">Taylor</label>
+
+                        <input type="checkbox" id="martin-trigger" class="modal-trigger">
+                        <div class="modal">
+                            <div class="modal-content">
+                                <label for="martin-trigger" class="close-modal">&times;</label>
+                                <h2>Martin</h2>
+                                <div class="modal-body">
+                                    <p>Fondée en 1833 par Christian Frederick Martin, l'entreprise est le plus ancien fabricant de guitares acoustiques aux États-Unis.</p>
+                                    <p><strong>Spécialisation :</strong></p>
+                                    <ul>
+                                        <li>Guitares acoustiques</li>
+                                        <li>Guitares à cordes en nylon</li>
+                                        <li>Ukulélés</li>
+                                    </ul>
+                                    <p>Martin est reconnue pour son son riche et profond et sa qualité traditionnelle.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <label for="martin-trigger" class="manufacturer-link">Martin</label>
+
+                        <input type="checkbox" id="yamaha-trigger" class="modal-trigger">
+                        <div class="modal">
+                            <div class="modal-content">
+                                <label for="yamaha-trigger" class="close-modal">&times;</label>
+                                <h2>Yamaha</h2>
+                                <div class="modal-body">
+                                    <p>Fondée en 1887, Yamaha est l'un des plus grands fabricants d'instruments de musique au monde.</p>
+                                    <p><strong>Spécialisation :</strong></p>
+                                    <ul>
+                                        <li>Guitares acoustiques</li>
+                                        <li>Guitares électriques</li>
+                                        <li>Guitares classiques</li>
+                                    </ul>
+                                    <p>Yamaha propose une large gamme d'instruments du niveau débutant au niveau professionnel.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <label for="yamaha-trigger" class="manufacturer-link">Yamaha</label>
+
+                        <input type="checkbox" id="cort-trigger" class="modal-trigger">
+                        <div class="modal">
+                            <div class="modal-content">
+                                <label for="cort-trigger" class="close-modal">&times;</label>
+                                <h2>Cort</h2>
+                                <div class="modal-body">
+                                    <p>Fondée en 1973 en Corée du Sud, Cort est devenue l'un des principaux fabricants de guitares abordables.</p>
+                                    <p><strong>Spécialisation :</strong></p>
+                                    <ul>
+                                        <li>Guitares électriques</li>
+                                        <li>Guitares acoustiques</li>
+                                        <li>Basses électriques</li>
+                                    </ul>
+                                    <p>Cort est reconnue pour son excellent rapport qualité-prix et sa large gamme de modèles.</p>
+                                </div>
+                            </div>
+                        </div>
+                        <label for="cort-trigger" class="manufacturer-link">Cort</label>
+                    </div>
+                </section>
+            </article>
+        </main>
+    </div>
+
+    <footer class="footer">
+        <div class="container">
+            <div class="footer-content">
+                <div class="footer-links">
+                    <h3>Langues</h3>
+                    <ul>
+                        <li><a href="../index.html">Русский</a></li>
+                        <li><a href="../en/index.html">English</a></li>
+                        <li><a href="../es/index.html">Español</a></li>
+                        <li><a href="../de/index.html">Deutsch</a></li>
+                        <li><a href="index.html">Français</a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="footer-bottom">
+                <p>© 2024 Guitare — Wikipédia. Tous droits réservés.</p>
+            </div>
+        </div>
+    </footer>
+</body>
+</html> 
